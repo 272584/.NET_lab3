@@ -1,0 +1,14 @@
+/Users/mateusz/Desktop/dotNET_lab3/bin/Debug/net8.0/dotNET_lab3
+/Users/mateusz/Desktop/dotNET_lab3/bin/Debug/net8.0/dotNET_lab3.deps.json
+/Users/mateusz/Desktop/dotNET_lab3/bin/Debug/net8.0/dotNET_lab3.runtimeconfig.json
+/Users/mateusz/Desktop/dotNET_lab3/bin/Debug/net8.0/dotNET_lab3.dll
+/Users/mateusz/Desktop/dotNET_lab3/bin/Debug/net8.0/dotNET_lab3.pdb
+/Users/mateusz/Desktop/dotNET_lab3/obj/Debug/net8.0/dotNET_lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateusz/Desktop/dotNET_lab3/obj/Debug/net8.0/dotNET_lab3.AssemblyInfoInputs.cache
+/Users/mateusz/Desktop/dotNET_lab3/obj/Debug/net8.0/dotNET_lab3.AssemblyInfo.cs
+/Users/mateusz/Desktop/dotNET_lab3/obj/Debug/net8.0/dotNET_lab3.csproj.CoreCompileInputs.cache
+/Users/mateusz/Desktop/dotNET_lab3/obj/Debug/net8.0/dotNET_lab3.dll
+/Users/mateusz/Desktop/dotNET_lab3/obj/Debug/net8.0/refint/dotNET_lab3.dll
+/Users/mateusz/Desktop/dotNET_lab3/obj/Debug/net8.0/dotNET_lab3.pdb
+/Users/mateusz/Desktop/dotNET_lab3/obj/Debug/net8.0/dotNET_lab3.genruntimeconfig.cache
+/Users/mateusz/Desktop/dotNET_lab3/obj/Debug/net8.0/ref/dotNET_lab3.dll
